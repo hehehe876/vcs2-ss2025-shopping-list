@@ -1,6 +1,7 @@
 aepfel
 birnen
 orangen
+banane
 bier
 leberkaese
 chips
